@@ -1,0 +1,29 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "1611000001175033",
+      "name": "GitCheck",
+      "domain": {
+        "id": "10037727018",
+        "name": "gitcheck-716782380.development"
+      },
+      "env": [
+        {
+          "idx": 1,
+          "id": "716782380",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
