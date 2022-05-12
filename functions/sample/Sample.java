@@ -12,7 +12,7 @@ public class Sample implements CatalystAdvancedIOHandler {
 	@Override
     public void runner(HttpServletRequest request, HttpServletResponse response) throws Exception {
 		try {
-			LOGGER.log(Level.INFO, "Hello Arun");
+			LOGGER.log(Level.INFO, "Hello Arun Gokul");
 			response.setStatus(200);
 		}
 		catch(Exception e) {
